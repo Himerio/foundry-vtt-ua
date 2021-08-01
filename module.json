@@ -2,7 +2,7 @@
   "name": "FoundryVTT-UA",
   "title": "Translation: Ukrainian [Core] | Українська",
   "description": "Український переклад для FoundryVTT",
-  "version": "0.88.1",
+  "version": "0.88.2",
   "author": "Tapkomet",
   "minimumCoreVersion" : "0.8.8",
   "compatibleCoreVersion": "0.8.8",
