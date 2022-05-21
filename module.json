@@ -2,19 +2,31 @@
   "name": "FoundryVTT-UA",
   "title": "Translation: Ukrainian [Core] | Українська",
   "description": "Український переклад для FoundryVTT",
-  "version": "0.88.1",
-  "author": "Tapkomet",
-  "minimumCoreVersion" : "0.8.8",
-  "compatibleCoreVersion": "0.8.8",
+  "version": "0.9.1",
+  "authors": [
+    {
+      "name": "Tapkomet"
+    },
+    {
+      "name": "Himerio"
+    }
+  ],
+  "minimumCoreVersion" : "0.8.9",
+  "compatibleCoreVersion": "9",
   "coreTranslation": true,
   "scripts": [],
-  "styles": ["ua.css"],
+  "styles": [
+    "ua.css"
+  ],
   "packs": [],    
-  "languages": [{
-  	"lang": "ua",
-    "name": "Ukrainian",
-    "path": "lang/ua.json"
-  }],
-  "url": "https://github.com/Tapkomet/foundry-vtt-ua",
-  "manifest": "https://raw.githubusercontent.com/Tapkomet/foundry-vtt-ua/master/module.json",
-  "download": "https://github.com/Tapkomet/foundry-vtt-ua/archive/refs/heads/master.zip"
+  "languages": [
+    {
+      "lang": "ua",
+      "name": "Ukrainian",
+      "path": "lang/foundry.json"
+    }
+  ],
+  "url": "https://github.com/Himerio/foundry-vtt-ua",
+  "manifest": "https://raw.githubusercontent.com/Himerio/foundry-vtt-ua/main/module.json",
+  "download": "https://github.com/Himerio/foundry-vtt-ua/archive/refs/heads/main.zip"
+}
