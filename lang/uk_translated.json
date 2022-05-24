@@ -639,7 +639,7 @@
     "KEYBINDINGS.HowToEdit": "Використайте {icon} або подвійне натиснення клавіш прив'язки, щоб змінити значення.",
     "KEYBINDINGS.CycleView": "Перемикання виду сцени",
     "KEYBINDINGS.Dismiss": "Перемикання меню / Приховувані вікна",
-    "KEYBINDINGS.MoveAlongMeasuredRuler": "Move Along Measured Ruler",
+    "KEYBINDINGS.MoveAlongMeasuredRuler": "Переміщення вздовж лінійки",
     "KEYBINDINGS.Pause": "Пауза",
     "KEYBINDINGS.Delete": "Видалити об'єкти",
     "KEYBINDINGS.Highlight": "Підсвітити об'єкти",
