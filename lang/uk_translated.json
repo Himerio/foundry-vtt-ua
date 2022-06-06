@@ -668,7 +668,7 @@
     "KEYBINDINGS.ErrorReservedModifier": "Cannot set \"{key}\" as a Binding, as it is a reserved modifier for this Keybinding Action",
     "LIGHT.ConfigTitle": "Налаштувати джерела світла",
     "LIGHT.HeaderBasic": "Базові налаштування",
-    "LIGHT.HeaderAdvanced": "Advanced Options",
+    "LIGHT.HeaderAdvanced": "Розширені налаштування",
     "LIGHT.HeaderAnimation": "Анімація Освітлення",
     "LIGHT.Create": "Створити джерело світла",
     "LIGHT.Update": "Оновити джерело світла",
