@@ -316,7 +316,7 @@
     "DND5E.Flaws": "Вади",
     "DND5E.FormulaCannotContainDiceWarn": "{name} formula cannot contain dice expressions.",
     "DND5E.EffectCreate": "Створити ефект",
-    "DND5E.EffectToggle": "Увімкнути ефект",
+    "DND5E.EffectToggle": "Вкл/Викл Ефект",
     "DND5E.EffectEdit": "Змінити ефект",
     "DND5E.EffectEnable": "Увімкнений Ефект",
     "DND5E.EffectDelete": "Видалити ефект",
